@@ -1,0 +1,2 @@
+2021-06-23 17:06:770 INFO  HomePage :42 - Clicking on computers menu --> [[ChromeDriver: chrome on WINDOWS (881617674f55bc6c83a50a30a9f32297)] -> xpath: //ul[@class='top-menu notmobile']/li[1]]
+2021-06-23 17:06:980 INFO  ComputerPage :36 - Clicking on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (881617674f55bc6c83a50a30a9f32297)] -> xpath: //ul[@class = 'sublist']/li[1]/a]
